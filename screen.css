@@ -220,3 +220,16 @@ textarea {
 
 /*END RESET AND NORMALIZE*/
 /*BEGIN CSS*/
+
+body {
+    background-image: url("background.png");
+    background-repeat: repeat-y;
+}
+
+h1 {
+	text align: center
+}
+
+h2 {
+	text align: center
+}
