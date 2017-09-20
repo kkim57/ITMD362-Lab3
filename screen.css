@@ -248,6 +248,8 @@ form {
 	border-color: black;
 	border-width: 2px;
 	text-align: center;
+	margin-left: 20em;
+	margin-right: 20em;
 }
 
 label {
