@@ -243,9 +243,11 @@ h3 {
 	text-align: center;
 }
 
-formset {
-	text-align: center;
+form {
 	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	text-align: center;
 }
 
 label {
