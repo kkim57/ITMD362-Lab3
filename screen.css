@@ -223,13 +223,19 @@ textarea {
 
 body {
     background-image: url("background.png");
-    background-repeat: repeat-y;
+    background-repeat: space;
 }
 
 h1 {
-	text align: center
+	display: block;
+	font-size: 3em;
+	font-weight: bold;
+	text align: center;
 }
 
 h2 {
-	text align: center
+	display: block;
+	font-size: 2em;
+	text align: center;
+	
 }
